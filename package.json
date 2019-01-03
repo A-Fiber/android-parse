@@ -1,0 +1,26 @@
+{
+  "name": "android-parse",
+  "version": "1.0.0",
+  "description": "android-parse",
+  "main": "ParseServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Fiber/android-parse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Fiber/android-parse/issues"
+  },
+  "homepage": "https://github.com/A-Fiber/android-parse#readme",
+"engines": {
+      "node": "8.9.0"
+  },
+  "dependencies": {
+   "express":"4.16.3",
+   "parse-server":"2.7.4"
+  }
+}
